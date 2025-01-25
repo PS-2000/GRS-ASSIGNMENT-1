@@ -31,3 +31,7 @@ If it's an external program (./fact 10), the shell creates a child process using
 
 ![Screenshot from 2025-01-25 10-52-54](https://github.com/user-attachments/assets/58efef0b-4bb4-4594-b2fe-d648a44e374c)
 ![Screenshot from 2025-01-25 10-26-51](https://github.com/user-attachments/assets/cfd1f56e-c054-4914-94f7-672764f09f2c)
+
+##  Process Tree :
+
+![Screenshot from 2025-01-25 13-35-53](https://github.com/user-attachments/assets/6c4ee898-6697-4fa0-ac5b-1c443cca80bc)
