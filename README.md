@@ -1,3 +1,9 @@
+![Screenshot from 2025-01-27 00-15-13](https://github.com/user-attachments/assets/3fdea41f-e2e2-425e-88b1-006deb08ad1c)
+![Screenshot from 2025-01-27 00-15-04](https://github.com/user-attachments/assets/c50f966a-4142-4064-8a8f-f45ea1d1f1dc)
+![Screenshot from 2025-01-27 00-14-57](https://github.com/user-attachments/assets/0c62e6ed-e28e-4f30-a3d7-e59e1b31a2dd)
+![Screenshot from 2025-01-27 00-14-51](https://github.com/user-attachments/assets/2c836e7b-30ae-43e3-9f1e-592da848d3f0)
+![Screenshot from 2025-01-27 00-14-45](https://github.com/user-attachments/assets/9ac97bd7-3055-4913-bf66-8ad68e4e1a95)
+![Screenshot from 2025-01-27 00-14-38](https://github.com/user-attachments/assets/56ec1acd-9cdf-470a-9fd4-1cd9163682cc)
 # GRS-ASSIGNMENT-1
 # Little description about GRS  assignment 1
 
